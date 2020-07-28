@@ -1,0 +1,93 @@
+Functions:
+**********
+
+	Initialise():
+		This Function Is The First Function To Be Executed When The Programmer Is Runned.
+	*****************************************************************************************
+
+	Internet_Available():
+		This Function Retunrs True If The Computer Is Connected To The Internet. Else
+		Retunrs False.
+	**************************************************************************************
+
+	Check_For_Availability(utility_no, utility_value):
+		This Function Opens The Users File And Checks Whether The utility_value Is 
+		Present In The utility_no For Any Of The User.
+	**************************************************************************************
+
+	New_User_Write(user_details):
+		This Function Appends The Content In The List(user_details) To The all_cutomers.csv
+		File.
+	***************************************************************************************
+
+	Generate_Verification_Code():
+		This Function Retunrs An 6 Digit Integer In The Form Of String.
+	****************************************************************************************
+
+	Send_Verification_Code(user_email, vcc_code):
+		This Function Sends The Verification Code(vcc_code) To The user_email
+		(Email Of The User).
+	****************************************************************************************
+
+	Get_System_Owner_Name():
+		This Function Returns The Computer Name.
+	************************************************
+
+	Registration_Completion_Mail(user_name, user_email):
+		This Function Sends An Email(user_email) To The User(user_name) Regarding The 
+		Registration Of His/Her Account. The Email Also Contains The Details Of The
+		System From Which The Account Is Created.
+	*************************************************************************************
+
+	Current_Date_Time():
+		This Function Returns The Time And Date At The Moment In Which The Function Is Called.
+		It Is Returned In The Below Format:	"Day Month(In Short) Date, Time(HH:MM), Year"
+	*********************************************************************************************
+
+	Check_True_User(uname_email, password):
+		This Function Opens The File all_customers.csv File And Checks Whether The Password
+		(password) Is The Correct Match For Either Email Or Username(uname_email).
+	*********************************************************************************************
+
+	Send_Password_Code(user_email, vcc_code):
+		This Function Sends An Email To The Address user_email With The Verification Code
+		(vcc_code) Required To Reset Password.
+	*****************************************************************************************
+
+	Reset_Password(user_email, password):
+		This Function Will Change The Password Of The User Either With The Username Or Email
+		Equal To user_email With The New Password(password).
+	********************************************************************************************
+
+	Retrieve_User_Data(uname_email):
+		This Function Returns All The Infromation Of The User From The File all_customers.csv
+		Using uname_email(Username Or Email).
+	*********************************************************************************************
+
+	Retreive_All_Users_Names():
+		This Function Returns The Usernames Of All The Customers Present In The File
+		all_customers.csv
+	************************************************************************************
+
+	Get_User_Position(uname_or_email):
+		This Function Returns The Position Of The Customer Whose Username Or Email
+		Is Equal To uname_or_email.
+	**********************************************************************************
+
+	Modify_Content_In_File(user_data):
+		This Function Replaces The Details Of The Customer With His/Her New Details.
+	***********************************************************************************
+
+	Write_To_Passbook(code, pos, amount, balance, reciever):
+		This Function Will Create An String Using The Given Details(amount, balance, reciever)
+		And Writes It To The Passbook Of The Customer With The Position Equal To pos. The 
+		code Will Decide What Content To Write. 0 - Refers To Deposition, 1 - Refers To 
+		Withdraw, 2 - Refers To Money Transfer And 3 - Refers To Receiveing Money.
+	************************************************************************************
+
+	Transactional_Email(code, user_data, amount, reciever):
+		This Function Sends An Email To The Address Available In The user_data Regarding 
+		The Transaction Made. The Emails Consists The Name(user_data[0), Account Balance(user_data[3]) And The
+		Transactioned Amount(amount). The code Will Decide What Content To Send. 0 - Refers To Deposition, 
+		1 - Refers To Withdraw, 2 - Refers To Money Transfer And 3 - Refers To Receiveing Money.
+	***************************************************************************************************************

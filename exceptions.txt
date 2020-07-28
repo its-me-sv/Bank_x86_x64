@@ -1,0 +1,67 @@
+Classes:
+********
+	
+	Invalid_Name():
+		This Exception Is Raised When The User Leaves
+		The Name Field Empty.
+	*****************************************************
+	
+	Invalid_Username():
+		This Exception Is Raised When The User Leaves
+		The Username Field Empty.
+	*****************************************************
+
+	Username_Taken():
+		This Exception Is Raised When The User Enters
+		An Username Which Is Already In Use.
+	*****************************************************
+	
+	Invalid_Password():
+		This Exception Is Raised When The User Leaves 
+		The Password Field Empty.
+	*****************************************************
+
+	Password_Did_Not_Match():
+		This Exception Is Raised When The Confirmation
+		Password Did Not Match With The Password.
+	*****************************************************
+	
+	Invalid_Email():
+		This Exception Is Raised When The User Enters
+		An Invalid Email Address In The Email Field.
+	******************************************************
+
+	Email_Taken():
+		This Exception Is Raised When The User Enters
+		An Email Which Is Already In Use.
+	*******************************************************
+	
+	Wrong_VCCode():
+		This Exception Is Raised When The User Enters
+		The Wrong Verification Code.
+	*******************************************************
+	
+	Not_Agreed():
+		This Exception Is Raised When The User Did Not
+		Agree To The Terms And Conditions.
+	*******************************************************
+
+	No_Internet():
+		This Exception Is Raised When The User Is
+		Not Connected To The Internet.
+	*******************************************************
+
+	No_User():
+		This Exception Is Raised When The User's Login
+		Credentials Are Incorrent.
+	*******************************************************
+	
+	Invalid_Amount():
+		This Exception Is Raised When The User Inputs
+		An Invalid Amount.
+	*******************************************************
+	
+	Insufficient_Balance():
+		This Exception Is Raised When The User Tries 
+		To Withdraw Money Greater Than His Actual Balance.
+	**********************************************************

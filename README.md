@@ -7,41 +7,33 @@
 <h3 id="sf">Special Features</h3>
 <ol>
     <li>This Is An Frameless Application Which Makes The GUI So Pleasing.</li>
-			<li>The Name Of The Customer Is Automatically Detected From The Computer.</li>
-			<li>The Cutomer Will Get Verification Code For Registertinng.</li>
-			<li>He/She Can Register Account Only If The Verification Code Is Correct.</li>
-			<li>Customer Can Login To The Account Either With Emails Or With Username.</li>
-			<li>Login Screen Has An Option To Reset The Password.</li>
-			<li>Resseting Password Will Require An Verification Key.</li>
-			<li>Customer Can Change His/Her Details Like Name, Username, Password And Email.</li>
-			<li>He/She Would Be Able To Deposit Or Withdraw Or Tranasfer Money In The Payments Session.</li>
-			<li>Payments Page Has Passbook Which Will Contain All The Transactional Details.</li>
-			<li>Customer Gets Email For Each And Every Single Transaction Made.</li>
-			<li>Available Users Lets The Customer To View The Basic Details Of The All Other Users.</li>
+    <li>The Name Of The Customer Is Automatically Detected From The Computer.</li>
+	<li>The Cutomer Will Get Verification Code For Registertinng.</li>
+	<li>He/She Can Register Account Only If The Verification Code Is Correct.</li>
+	<li>Customer Can Login To The Account Either With Emails Or With Username.</li>
+	<li>Login Screen Has An Option To Reset The Password.</li>
+	<li>Resseting Password Will Require An Verification Key.</li>
+	<li>Customer Can Change His/Her Details Like Name, Username, Password And Email.</li>
+	<li>He/She Would Be Able To Deposit Or Withdraw Or Tranasfer Money In The Payments Session.</li>
+	<li>Payments Page Has Passbook Which Will Contain All The Transactional Details.</li>
+	<li>Customer Gets Email For Each And Every Single Transaction Made.</li>
+	<li>Available Users Lets The Customer To View The Basic Details Of The All Other Users.</li>
 </ol><hr>
 <h3 id="glry">Gallery</h3>
-<img src="https://github.com/its-me-sv/Shop_x86_x64/blob/master/Snips/1.PNG">
-<img src="https://github.com/its-me-sv/Shop_x86_x64/blob/master/Snips/2.PNG">
-<img src="https://github.com/its-me-sv/Shop_x86_x64/blob/master/Snips/3.PNG">
-<img src="https://github.com/its-me-sv/Shop_x86_x64/blob/master/Snips/4.PNG">
-<img src="https://github.com/its-me-sv/Shop_x86_x64/blob/master/Snips/5.PNG">
-<img src="https://github.com/its-me-sv/Shop_x86_x64/blob/master/Snips/6.PNG">
-<img src="https://github.com/its-me-sv/Shop_x86_x64/blob/master/Snips/7.PNG">
-<img src="https://github.com/its-me-sv/Shop_x86_x64/blob/master/Snips/8.PNG">
-<img src="https://github.com/its-me-sv/Shop_x86_x64/blob/master/Snips/9.PNG">
-<img src="https://github.com/its-me-sv/Shop_x86_x64/blob/master/Snips/10.PNG">
-<img src="https://github.com/its-me-sv/Shop_x86_x64/blob/master/Snips/11.PNG">
-<img src="https://github.com/its-me-sv/Shop_x86_x64/blob/master/Snips/12.PNG">
-<img src="https://github.com/its-me-sv/Shop_x86_x64/blob/master/Snips/13.PNG">
-<img src="https://github.com/its-me-sv/Shop_x86_x64/blob/master/Snips/14.PNG">
-<img src="https://github.com/its-me-sv/Shop_x86_x64/blob/master/Snips/15.PNG">
-<img src="https://github.com/its-me-sv/Shop_x86_x64/blob/master/Snips/16.PNG">
-<img src="https://github.com/its-me-sv/Shop_x86_x64/blob/master/Snips/17.PNG">
-<img src="https://github.com/its-me-sv/Shop_x86_x64/blob/master/Snips/18.PNG">
-<img src="https://github.com/its-me-sv/Shop_x86_x64/blob/master/Snips/19.PNG">
-<img src="https://github.com/its-me-sv/Shop_x86_x64/blob/master/Snips/20.PNG">
-<img src="https://github.com/its-me-sv/Shop_x86_x64/blob/master/Snips/21.PNG">
-<img src="https://github.com/its-me-sv/Shop_x86_x64/blob/master/Snips/22.PNG">
+<img src="https://github.com/its-me-sv/Bank_x86_x64/blob/master/Snips/1.PNG">
+<img src="https://github.com/its-me-sv/Bank_x86_x64/blob/master/Snips/2.PNG">
+<img src="https://github.com/its-me-sv/Bank_x86_x64/blob/master/Snips/3.PNG">
+<img src="https://github.com/its-me-sv/Bank_x86_x64/blob/master/Snips/4.PNG">
+<img src="https://github.com/its-me-sv/Bank_x86_x64/blob/master/Snips/5.PNG">
+<img src="https://github.com/its-me-sv/Bank_x86_x64/blob/master/Snips/6.PNG">
+<img src="https://github.com/its-me-sv/Bank_x86_x64/blob/master/Snips/7.PNG">
+<img src="https://github.com/its-me-sv/Bank_x86_x64/blob/master/Snips/8.PNG">
+<img src="https://github.com/its-me-sv/Bank_x86_x64/blob/master/Snips/9.PNG">
+<img src="https://github.com/its-me-sv/Bank_x86_x64/blob/master/Snips/10.PNG">
+<img src="https://github.com/its-me-sv/Bank_x86_x64/blob/master/Snips/11.PNG">
+<img src="https://github.com/its-me-sv/Bank_x86_x64/blob/master/Snips/12.PNG">
+<img src="https://github.com/its-me-sv/Bank_x86_x64/blob/master/Snips/13.PNG">
+<img src="https://github.com/its-me-sv/Bank_x86_x64/blob/master/Snips/14.PNG">
 <hr>
 <h3 id="docs">Documentation</h3>
 The File ("Documentation.rar") Includes The Documentation For The Following:<br>
